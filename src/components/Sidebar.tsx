@@ -144,7 +144,7 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
     },
     {
       icon: Radio,
-      label: '直播',
+      label: '电视直播',
       href: '/live',
     },
   ]);
@@ -176,7 +176,7 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
       },
       {
         icon: Radio,
-        label: '直播',
+        label: '电视直播',
         href: '/live',
       },
     ];

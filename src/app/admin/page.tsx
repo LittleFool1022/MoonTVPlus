@@ -11045,9 +11045,9 @@ function AdminPageClient() {
               <VideoSourceConfig config={config} refreshConfig={fetchConfig} />
             </CollapsibleTab>
 
-            {/* 直播源配置标签 */}
+            {/* 电视直播源配置标签 */}
             <CollapsibleTab
-              title='直播源配置'
+              title='电视直播源配置'
               icon={
                 <Tv size={20} className='text-gray-600 dark:text-gray-400' />
               }

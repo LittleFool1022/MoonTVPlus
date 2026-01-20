@@ -52,7 +52,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
     },
     {
       icon: Radio,
-      label: '直播',
+      label: '电视直播',
       href: '/live',
     },
   ]);
@@ -85,7 +85,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
       },
       {
         icon: Radio,
-        label: '直播',
+        label: '电视直播',
         href: '/live',
       },
     ];
